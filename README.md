@@ -1,2 +1,2 @@
 # Neural-Network-Training
-How to train a Neural Network using TensorFlow
+Guida su come creare e addestrare una rete neurale utilizzando TensorFlow.
